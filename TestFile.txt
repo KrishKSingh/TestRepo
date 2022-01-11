@@ -1,5 +1,5 @@
 Just a file for git command confirmation.
  
-Change1 - First change in the file.
+Change 1 - First change in the file.
 
 Change2 - Second change in the file.
